@@ -41,6 +41,12 @@ h1 {
   font-size: 2.5vw;
 }
 
+h3 {
+  color: black;
+  font-family: 'Open Sans';
+  font-weight: bold;
+}
+
 h4 {
   color: black;
   font-family: 'Bitter';
@@ -89,14 +95,22 @@ h5 {
   margin-top: 2vw;
 }
 
+.top-title {
+  font-family: 'Roboto';
+  font-size: 2.5vw;
+  font-weight: bold;
+  margin-left: 29vw;
+  margin-top: .2vw;
+}
+
 .top-banner {
   margin-left: 10vw;
-  display:block;
+  /*display:block;
   position:relative;
-  overflow:hidden;/*keeps the image in the container*/
-  height: 28vw;
+  overflow:hidden;
+  height: 28vw;*/
 }
-.top-banner img{position:absolute;top:0;width:100%}
+/*.top-banner img{position:absolute;top:0;width:100%}*/
 
 .underbtn {
   margin-top: 75px;
